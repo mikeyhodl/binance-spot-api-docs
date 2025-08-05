@@ -12,7 +12,7 @@ Please consult the Spot Test Network's [homepage](https://testnet.binance.vision
 
 #### General Changes
 
-* The [pegged order](https://github.com/binance/binance-spot-api-docs/blob/master/faqs/api_key_types.md/pegged_orders.md) functionality is now available.
+* The [pegged order](https://github.com/binance/binance-spot-api-docs/blob/master/faqs/pegged_orders.md) functionality is now available.
   * Exchange Information requests emit the field `pegInstructionsAllowed`.
   * The following conditional fields `pegPriceType`, `pegOffSetType`, `pegOffsetValues`, and `peggedPrice` appear in responses of the following requests if the order was a pegged order:
     * REST API
