@@ -1,6 +1,6 @@
 # Error codes for Binance SPOT Testnet
 
-**Last Updated: 2025-08-04**
+**Last Updated: 2025-08-05**
 
 Errors consist of two parts: an error code and a message. Codes are universal,
  but messages can vary. Here is the error JSON payload:

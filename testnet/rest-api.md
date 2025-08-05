@@ -73,7 +73,7 @@
 
 # Public Rest API for Binance SPOT Testnet
 
-**Last Updated: 2025-05-28**
+**Last Updated: 2025-08-05**
 
 ## General API Information
 * The base endpoint is **https://testnet.binance.vision/api**

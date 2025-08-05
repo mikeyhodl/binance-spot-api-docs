@@ -18,7 +18,7 @@
 
 # User Data Streams for Binance Spot TESTNET
 
-**Last Updated: 2025-04-08**
+**Last Updated: 2025-08-05**
 
 # General WSS information
 

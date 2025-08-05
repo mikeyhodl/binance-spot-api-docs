@@ -89,7 +89,7 @@
 
 # Public WebSocket API for Binance SPOT Testnet
 
-**Last Updated: 2025-05-28**
+**Last Updated: 2025-08-05**
 
 ## General API Information
 
